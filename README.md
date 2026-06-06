@@ -1,5 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # electron-builder-binaries
 
-[electron-builder](http://github.com/electron-userland/electron-builder) downloads required tools files on demand (e.g. to code sign windows application, to make AppX).
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/electron-builder-binaries)
 
-Version and SHA512 checksum of binary is hardcoded in the electron-builder code. So, even if this repository will be compromised, users are not affected.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
+
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/electron-builder-binaries.git
+cd electron-builder-binaries
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/electron-builder-binaries`](https://github.com/Interested-Deving-1896/electron-builder-binaries) and mirrored through:
+
+```
+Interested-Deving-1896/electron-builder-binaries  ──►  OpenOS-Project-OSP/electron-builder-binaries  ──►  OpenOS-Project-Ecosystem-OOC/electron-builder-binaries
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
